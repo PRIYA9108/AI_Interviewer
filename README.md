@@ -52,3 +52,20 @@ Conduct Interview
 Evaluate Answers
       ↓
 Generate Performance Report
+
+
+## 📂 Project Structure
+
+```text
+AI_Interviewer/
+│
+├── .streamlit/
+│   └── secrets.toml
+│
+├── app.py
+├── resume_parser.py
+├── skill_extractor.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+
