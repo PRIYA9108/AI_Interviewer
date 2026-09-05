@@ -36,36 +36,33 @@ An AI-powered interview practice platform built with Python and Streamlit. It an
 
 ## 🔄 Application Workflow
 
-```text
-Upload Resume
-      ↓
-Extract Resume Text
-      ↓
-Detect Technical Skills
-      ↓
-Analyze Resume
-      ↓
-Select Interview Role
-      ↓
-Conduct Interview
-      ↓
-Evaluate Answers
-      ↓
+Upload Resume  
+↓  
+Extract Resume Text  
+↓  
+Detect Technical Skills  
+↓  
+Analyze Resume  
+↓  
+Select Interview Role  
+↓  
+Conduct Interview  
+↓  
+Evaluate Answers  
+↓  
 Generate Performance Report
-
 
 ## 📂 Project Structure
 
-```text
-AI_Interviewer/
-│
-├── .streamlit/
-│   └── secrets.toml
-│
-├── app.py
-├── resume_parser.py
-├── skill_extractor.py
-├── requirements.txt
-├── .gitignore
+AI_Interviewer/  
+│  
+├── .streamlit/  
+│   └── secrets.toml  
+│  
+├── app.py  
+├── resume_parser.py  
+├── skill_extractor.py  
+├── requirements.txt  
+├── .gitignore  
 └── README.md
 
